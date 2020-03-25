@@ -11,3 +11,6 @@ BumpSim is a toy app to test computational spread of a theoretical contagion. Fe
 To use the app, change the sliders and press the "Add Node" button. Please note that you must add at least one Infected node to see the simulated spread of a theoretical contagion. 
 
 Green Nodes are Healthy, Red Nodes are Infected, and Blue Nodes are Immune. If a node dies, it is removed.
+
+![BumpSim on iPhone]
+(https://raw.githubusercontent.com/robnewport/BumpSim/master/iPhone.png)
