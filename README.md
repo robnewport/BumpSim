@@ -12,5 +12,4 @@ To use the app, change the sliders and press the "Add Node" button. Please note 
 
 Green Nodes are Healthy, Red Nodes are Infected, and Blue Nodes are Immune. If a node dies, it is removed.
 
-![BumpSim on iPhone]
-(https://raw.githubusercontent.com/robnewport/BumpSim/master/iPhone.png)
+![BumpSim on iPhone](https://raw.githubusercontent.com/robnewport/BumpSim/master/iPhone.png)
